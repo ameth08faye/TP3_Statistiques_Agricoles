@@ -1,6 +1,8 @@
 # TP3_Statistiques_Agricoles
 Dernière mise à jour : 08/03/2024.
+
 I.	Description des Travaux Pratiques
+
        Ce travail s’inscrit dans le cadre des TP3 du cours de Statistiques agricoles. L’objectif est de produire des statistiques de base concernant les productions, les superficies et les rendements. Nous examinerons également les tendances par zones géographiques et types d’exploitations agricoles. 
       Ce travail est réalisé par O. AMANA Jeanne De La FLECHE et Ameth FAYE à l’aide du logiciel R. 
       
