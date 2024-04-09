@@ -36,5 +36,5 @@ if (TRUE) {
   source(file.path(scripts, "2.3 Analyse des intrants.R"))
 }
 if (TRUE) {
-  source(file.path(scripts, "2.4 Analyse des intrants (bis)"))
+  source(file.path(scripts, "2.4 Analyse des intrants (bis).R"))
 }
